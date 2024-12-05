@@ -9,36 +9,36 @@
 - vite
   
 
-### Front end
+  ### Front end
 
-- React
-- Vue.js
-- HTML / CSS
-- Sass / Scss
+  - React
+  - Vue.js
+  - HTML / CSS
+  - Sass / Scss
 
-### Back end
+  ### Back end
 
-- Node.js
-- Express
-- SQL
-- PostgreSQL / MongoDB
-- Templating EJS
-- API REST
+  - Node.js
+  - Express
+  - SQL
+  - PostgreSQL / MongoDB
+  - Templating EJS
+  - API REST
 
-### CMS
+  ### CMS
 
-- Wordpress
-- Prestaphop
-- Drupal
+  - Wordpress
+  - Prestaphop
+  - Drupal
 
-### Tagging / Tracking
-- Google Tag Manager
-- Google Analytics / Google Ads
-- Affiliation
+  ### Tagging / Tracking
+  - Google Tag Manager
+  - Google Analytics / Google Ads
+  - Affiliation
 
-  ## Interest
+## Interest
 
- ## 🤺 📖 💻 🏍 🪴
+  ## 🤺 📖 💻 🏍 🪴
 <!--
 **teo-crth/teo-crth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
