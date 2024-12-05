@@ -1,5 +1,35 @@
-## Hi there 👋
+# 〰〰〰 Développeur Fullstack 〰〰〰
 
+## Skills
+
+- Typescript
+- Javascript
+- Git / Github
+- Jest / Chai
+- vite
+  
+
+### Front end
+
+- React
+- Vue.js
+- HTML / CSS
+- Sass / Scss
+
+### Back end
+
+- Node.js
+- Express
+- SQL
+- PostgreSQL / MongoDB
+- Templating EJS
+- API REST
+
+### CMS
+
+- Wordpress
+- Prestaphop
+- Drupal
 <!--
 **teo-crth/teo-crth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
