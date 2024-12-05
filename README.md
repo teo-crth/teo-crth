@@ -36,7 +36,7 @@
   - Google Analytics / Google Ads
   - Affiliation
 
-## Interest
+## Interests
 
   ## 🤺 📖 💻 🏍 🪴
 <!--
