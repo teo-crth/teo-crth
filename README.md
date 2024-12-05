@@ -30,6 +30,15 @@
 - Wordpress
 - Prestaphop
 - Drupal
+
+### Tagging / Tracking
+- Google Tag Manager
+- Google Analytics / Google Ads
+- Affiliation
+
+  ## Interest
+
+  🤺 📖 💻 🏍 🪴
 <!--
 **teo-crth/teo-crth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
