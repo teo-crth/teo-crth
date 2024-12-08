@@ -37,6 +37,11 @@ const readme = `# 〰〰〰 Développeur Fullstack 〰〰〰
   - Google Analytics / Google Ads
   - Affiliation
   
+  ## Contact
+  * [Mail](mailto:teo.conrath.pro@gmail.com)
+  * [Linkedin](https://www.linkedin.com/in/teoconrath/)
+ 
+ 
   ## Interests
   
   ## 🤺 📖 💻 🏍 🪴
