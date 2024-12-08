@@ -78,4 +78,4 @@ const readme = `#
   <#signing>
   `;
 
-module.exports = readme;
+export default readme;
