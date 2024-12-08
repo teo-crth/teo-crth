@@ -1,7 +1,15 @@
 
-const readme = `# 〰〰〰 Développeur Fullstack 〰〰〰
+const readme = `# 
+# <div align="center">〰〰〰 Développeur Fullstack 〰〰〰</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Téo;FullStack+Javascript;Developer;Welcome+to+my+page!;&center=true&size=30&color=754EF9">
+  </a>
+</h1>
 
-## Skills
+## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">Javascript : React / Node.js<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></div>
+
+## <div align="center">Skills:</div>
 
 - Typescript
 - Javascript
@@ -10,14 +18,30 @@ const readme = `# 〰〰〰 Développeur Fullstack 〰〰〰
 - vite
 
 
-### Front end
+<div align="center"> 
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="40" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="40" height="40" alt="SASS" />&nbsp;
+ <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;-->
+ <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />&nbsp;
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" alt="Docker" />&nbsp;
+</div>
+
+### <div align="center">Front end</div>
 
 - React
 - Vue.js
 - HTML / CSS
 - Sass / Scss
 
-### Back end
+### <div align="center">Back end</div>
 
   - Node.js
   - Express
@@ -26,25 +50,25 @@ const readme = `# 〰〰〰 Développeur Fullstack 〰〰〰
   - Templating EJS
   - API REST
   
-  ### CMS
+### <div align="center">CMS</div>
   
   - Wordpress
   - Prestaphop
   - Drupal
   
-  ### Tagging / Tracking
+  ### <div align="center">Tagging / Tracking</div>
   - Google Tag Manager
   - Google Analytics / Google Ads
   - Affiliation
   
-  ## Contact
+  ## <div align="center">Contact</div>
   * [Mail](mailto:teo.conrath.pro@gmail.com)
   * [Linkedin](https://www.linkedin.com/in/teoconrath/)
  
  
-  ## Interests
+  ## <div align="center">Interests</div>
   
-  ## 🤺 📖 💻 🏍 🪴
+  ## <div align="center">🤺 📖 💻 🏍 🪴</div>
 
   ## 
   Last update on <#today_date>
