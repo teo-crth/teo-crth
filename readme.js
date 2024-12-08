@@ -11,11 +11,13 @@ const readme = `#
 
 ## <div align="center">Skills:</div>
 
-- Typescript
-- Javascript
-- Git / Github
-- Jest / Chai
-- vite
+<ul align="center">
+  <li>Typescript</li>
+  <li>Javascript</li>
+  <li>Git / Github</li>
+  <li>Jest / Chai</li>
+  <li>vite</li>
+</ul>
 
 
 <div align="center"> 
@@ -36,34 +38,45 @@ const readme = `#
 
 ### <div align="center">Front end</div>
 
-- React
-- Vue.js
-- HTML / CSS
-- Sass / Scss
+<ul align="center">
+  <li>React</li>
+  <li>Vue.js</li>
+  <li>HTML / CSS</li>
+  <li>Sass / Scss</li>
+</ul>
 
 ### <div align="center">Back end</div>
 
-  - Node.js
-  - Express
-  - SQL
-  - PostgreSQL / MongoDB
-  - Templating EJS
-  - API REST
+<ul align="center">
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>SQL</li>
+  <li>PostgreSQL / MongoDB</li>
+  <li>Templating EJS</li>
+  <li>API REST</li>
+</ul>
   
 ### <div align="center">CMS</div>
   
-  - Wordpress
-  - Prestaphop
-  - Drupal
+<ul align="center">
+  <li>Wordpress</li>
+  <li>Prestashop</li>
+  <li>Drupal</li>
+</ul>
   
   ### <div align="center">Tagging / Tracking</div>
-  - Google Tag Manager
-  - Google Analytics / Google Ads
-  - Affiliation
-  
+
+  <ul align="center">
+  <li>Google Tag Manager</li>
+  <li>Google Analytics / Google Ads</li>
+  <li>Affiliation</li>
+</ul>
+
   ## <div align="center">Contact</div>
-  * [Mail](mailto:teo.conrath.pro@gmail.com)
-  * [Linkedin](https://www.linkedin.com/in/teoconrath/)
+<ul align="center">
+  <li><a href="mailto:teo.conrath.pro@gmail.com">Mail</a></li>
+  <li><a href="https://www.linkedin.com/in/teoconrath/">Linkedin</a></li>
+</ul>
  
  
   ## <div align="center">Interests</div>
