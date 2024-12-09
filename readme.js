@@ -36,7 +36,7 @@ const readme = `#
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" alt="Docker" />&nbsp;
 </div>
 
-### <div align="center">**Front end**</div>
+## <div align="center">**Front end**</div>
 
 <div align="center">
   <p>React</p>
@@ -45,7 +45,7 @@ const readme = `#
   <p>Sass / Scss</p>
 </div>
 
-### <div align="center">**Back end**</div>
+## <div align="center">**Back end**</div>
 
 <div align="center">
   <p>Node.js</p>
@@ -56,7 +56,7 @@ const readme = `#
   <p>API REST</p>
 </div>
   
-### <div align="center">**CMS**</div>
+## <div align="center">**CMS**</div>
   
 <div align="center">
   <p>Wordpress</p>
@@ -64,7 +64,7 @@ const readme = `#
   <p>Drupal</p>
 </div>
   
-  ### <div align="center">**Tagging / Tracking**</div>
+## <div align="center">**Tagging / Tracking**</div>
 
   <div align="center">
   <p>Google Tag Manager</p>
