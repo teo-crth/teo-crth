@@ -10,13 +10,13 @@
 
 ## <div align="center">Skills:</div>
 
-<ul align="center">
-  <li>Typescript</li>
-  <li>Javascript</li>
-  <li>Git / Github</li>
-  <li>Jest / Chai</li>
-  <li>vite</li>
-</ul>
+<div align="center">
+  <p>Typescript</p>
+  <p>Javascript</p>
+  <p>Git / Github</p>
+  <p>Jest / Chai</p>
+  <p>vite</p>
+</div>
 
 
 <div align="center"> 
@@ -37,45 +37,45 @@
 
 ### <div align="center">Front end</div>
 
-<ul align="center">
-  <li>React</li>
-  <li>Vue.js</li>
-  <li>HTML / CSS</li>
-  <li>Sass / Scss</li>
-</ul>
+<div align="center">
+  <p>React</p>
+  <p>Vue.js</p>
+  <p>HTML / CSS</p>
+  <p>Sass / Scss</p>
+</div>
 
 ### <div align="center">Back end</div>
 
-<ul align="center">
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>SQL</li>
-  <li>PostgreSQL / MongoDB</li>
-  <li>Templating EJS</li>
-  <li>API REST</li>
-</ul>
+<div align="center">
+  <p>Node.js</p>
+  <p>Express</p>
+  <p>SQL</p>
+  <p>PostgreSQL / MongoDB</p>
+  <p>Templating EJS</p>
+  <p>API REST</p>
+</div>
   
 ### <div align="center">CMS</div>
   
-<ul align="center">
-  <li>Wordpress</li>
-  <li>Prestashop</li>
-  <li>Drupal</li>
-</ul>
+<div align="center">
+  <p>Wordpress</p>
+  <p>Prestashop</p>
+  <p>Drupal</p>
+</div>
   
   ### <div align="center">Tagging / Tracking</div>
 
-  <ul align="center">
-  <li>Google Tag Manager</li>
-  <li>Google Analytics / Google Ads</li>
-  <li>Affiliation</li>
-</ul>
+  <div align="center">
+  <p>Google Tag Manager</p>
+  <p>Google Analytics / Google Ads</p>
+  <p>Affiliation</p>
+</div>
 
   ## <div align="center">Contact</div>
-<ul align="center">
-  <li><a href="mailto:teo.conrath.pro@gmail.com">Mail</a></li>
-  <li><a href="https://www.linkedin.com/in/teoconrath/">Linkedin</a></li>
-</ul>
+<div align="center">
+  <p><a href="mailto:teo.conrath.pro@gmail.com">Mail</a></p>
+  <p><a href="https://www.linkedin.com/in/teoconrath/">Linkedin</a></p>
+</div>
  
  
   ## <div align="center">Interests</div>
