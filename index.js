@@ -1,5 +1,5 @@
 import { promises as fs } from 'fs';
-import readme from './readme';
+import readme from './readme.js';
 
 const msInOneDay = 1000 * 60 * 60 * 24;
 
