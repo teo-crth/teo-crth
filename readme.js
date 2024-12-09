@@ -11,7 +11,7 @@ const readme = `#
 
 ## <div align="center">Skills:</div>
 
-<ul align="center" list-style: none;>
+<ul align="center" style="list-style: none;">
   <li list-style: none;>Typescript</li>
   <li>Javascript</li>
   <li>Git / Github</li>
