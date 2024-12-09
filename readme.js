@@ -11,7 +11,7 @@ const readme = `#
 
 ## <div align="center">Skills:</div>
 
-<ul align="center">
+<ul align="center" list-style: none;>
   <li>Typescript</li>
   <li>Javascript</li>
   <li>Git / Github</li>
@@ -38,7 +38,7 @@ const readme = `#
 
 ### <div align="center">Front end</div>
 
-<ul align="center">
+<ul align="center" style="list-style: none;">
   <li>React</li>
   <li>Vue.js</li>
   <li>HTML / CSS</li>
@@ -47,7 +47,7 @@ const readme = `#
 
 ### <div align="center">Back end</div>
 
-<ul align="center">
+<ul align="center" style="list-style: none;">
   <li>Node.js</li>
   <li>Express</li>
   <li>SQL</li>
@@ -58,7 +58,7 @@ const readme = `#
   
 ### <div align="center">CMS</div>
   
-<ul align="center">
+<ul align="center" style="list-style: none;">
   <li>Wordpress</li>
   <li>Prestashop</li>
   <li>Drupal</li>
@@ -66,14 +66,14 @@ const readme = `#
   
   ### <div align="center">Tagging / Tracking</div>
 
-  <ul align="center">
+  <ul align="center" style="list-style: none;">
   <li>Google Tag Manager</li>
   <li>Google Analytics / Google Ads</li>
   <li>Affiliation</li>
 </ul>
 
   ## <div align="center">Contact</div>
-<ul align="center">
+<ul align="center" style="list-style: none;">
   <li><a href="mailto:teo.conrath.pro@gmail.com">Mail</a></li>
   <li><a href="https://www.linkedin.com/in/teoconrath/">Linkedin</a></li>
 </ul>
