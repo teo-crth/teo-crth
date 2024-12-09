@@ -12,9 +12,9 @@ const readme = `#
 ## <div align="center">Skills:</div>
 
 <ul align="center" style="list-style: none;">
-  <li list-style: none;>Typescript</li>
-  <li>Javascript</li>
-  <li>Git / Github</li>
+  <li list-style-type: none;>Typescript</li>
+  <li style="list-style-type: none;">Javascript</li>
+  <li list-style: none;>Git / Github</li>
   <li>Jest / Chai</li>
   <li>vite</li>
 </ul>
