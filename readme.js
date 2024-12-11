@@ -1,6 +1,5 @@
 
-const readme = `# 
-# <div align="center">〰〰〰 Développeur Fullstack 〰〰〰</div>
+const readme = `# <div align="center">〰〰〰 Développeur Fullstack 〰〰〰</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Téo;FullStack+Javascript;Developer;Welcome+to+my+page!;&center=true&size=30&color=754EF9">

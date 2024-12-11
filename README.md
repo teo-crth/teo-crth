@@ -35,7 +35,7 @@
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" alt="Docker" />&nbsp;
 </div>
 
-### <div align="center">Front end</div>
+## <div align="center">**Front end**</div>
 
 <div align="center">
   <p>React</p>
@@ -44,7 +44,7 @@
   <p>Sass / Scss</p>
 </div>
 
-### <div align="center">Back end</div>
+## <div align="center">**Back end**</div>
 
 <div align="center">
   <p>Node.js</p>
@@ -55,7 +55,7 @@
   <p>API REST</p>
 </div>
   
-### <div align="center">CMS</div>
+## <div align="center">**CMS**</div>
   
 <div align="center">
   <p>Wordpress</p>
@@ -63,7 +63,7 @@
   <p>Drupal</p>
 </div>
   
-  ### <div align="center">Tagging / Tracking</div>
+## <div align="center">**Tagging / Tracking**</div>
 
   <div align="center">
   <p>Google Tag Manager</p>
@@ -83,9 +83,9 @@
   ## <div align="center">🤺 📖 💻 🏍 🪴</div>
 
   ## 
-  Last update on Mon Dec 09 2024
+  Last update on Wed Dec 11 2024
 
-  **23 day before 2025 ⏱** days before new years
+  **20 day before 2025 ⏱** days before new years
 
-  Emoji of the Day 📖
+  Emoji of the Day 🐧
   
