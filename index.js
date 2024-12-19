@@ -69,4 +69,9 @@ function main() {
   console.log(newREADME);
   updateREADMEFile(newREADME);
 }
+
+// Mettre à jour le README.md une fois au lancement
 main();
+
+// Mettre à jour le README.md tous les jours (setInterval)
+setInterval(main, msInOneDay); // Cela mettra à jour le README chaque jour

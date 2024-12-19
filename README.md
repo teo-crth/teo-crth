@@ -1,4 +1,3 @@
-# 
 # <div align="center">〰〰〰 Développeur Fullstack 〰〰〰</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -83,9 +82,9 @@
   ## <div align="center">🤺 📖 💻 🏍 🪴</div>
 
   ## 
-  Last update on Wed Dec 11 2024
+  Last update on Thu Dec 19 2024
 
-  **20 day before 2025 ⏱** days before new years
+  **13 day before 2025 ⏱** days before new years
 
-  Emoji of the Day 🐧
+  Emoji of the Day 🐦
   
