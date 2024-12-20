@@ -81,13 +81,6 @@ const readme = `# <div align="center">〰〰〰 Développeur Fullstack 〰〰〰
   ## <div align="center">Interests</div>
   
   ## <div align="center">🤺 📖 💻 🏍 🪴</div>
-
-  ## 
-  Last update on <#today_date>
-
-  <#day_before_new_years> days before new years
-
-  <#signing>
   `;
 
 export default readme;
