@@ -24,7 +24,6 @@
  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;
  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />&nbsp;
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="40" height="40" alt="SASS" />&nbsp;
- <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;-->
  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
  <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
@@ -39,6 +38,7 @@
 <div align="center">
   <p>React</p>
   <p>Vue.js</p>
+  <p>Tailwind</p>
   <p>HTML / CSS</p>
   <p>Sass / Scss</p>
 </div>
@@ -80,11 +80,4 @@
   ## <div align="center">Interests</div>
   
   ## <div align="center">🤺 📖 💻 🏍 🪴</div>
-
-  ## 
-  Last update on Thu Dec 19 2024
-
-  **13 day before 2025 ⏱** days before new years
-
-  Emoji of the Day 🐦
   
