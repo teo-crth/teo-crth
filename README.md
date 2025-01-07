@@ -9,15 +9,6 @@
 
 ## <div align="center">Skills:</div>
 
-<div align="center">
-  <p>Typescript</p>
-  <p>Javascript</p>
-  <p>Git / Github</p>
-  <p>Jest / Chai</p>
-  <p>vite</p>
-</div>
-
-
 <div align="center"> 
  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />&nbsp;
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="40" />&nbsp;
@@ -38,6 +29,8 @@
 <div align="center">
   <p>React</p>
   <p>Vue.js</p>
+  <p>Next JS</p>
+  <p>Angular</p>
   <p>Tailwind</p>
   <p>HTML / CSS</p>
   <p>Sass / Scss</p>
