@@ -45,6 +45,9 @@
   <p>PostgreSQL / MongoDB</p>
   <p>Templating EJS</p>
   <p>API REST</p>
+  <p>JWT Token</p>
+  <p>Jest/Mocha</p>
+  <p>Cryptage</p>
 </div>
   
 ## <div align="center">**CMS**</div>
