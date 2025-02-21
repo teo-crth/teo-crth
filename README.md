@@ -28,6 +28,7 @@
 
 <div align="center">
   <p>React</p>
+  <p>Typescript</p>
   <p>Vue.js</p>
   <p>Next JS</p>
   <p>Angular</p>
